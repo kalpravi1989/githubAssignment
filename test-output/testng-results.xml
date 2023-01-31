@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32" started-at="2023-01-06T13:17:44 CST" finished-at="2023-01-06T13:17:44 CST">
+  <suite name="Default suite" duration-ms="34" started-at="2023-01-30T21:15:12 CST" finished-at="2023-01-30T21:15:12 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32" started-at="2023-01-06T13:17:44 CST" finished-at="2023-01-06T13:17:44 CST">
+    <test name="Default test" duration-ms="34" started-at="2023-01-30T21:15:12 CST" finished-at="2023-01-30T21:15:12 CST">
       <class name="wellsfargo.LongestPrefix">
-        <test-method status="PASS" signature="test4()[pri:0, instance:wellsfargo.LongestPrefix@64f6106c]" name="test4" duration-ms="6" started-at="2023-01-06T13:17:44 CST" finished-at="2023-01-06T13:17:44 CST">
+        <test-method status="PASS" signature="test4()[pri:0, instance:wellsfargo.LongestPrefix@64f6106c]" name="test4" duration-ms="7" started-at="2023-01-30T21:15:12 CST" finished-at="2023-01-30T21:15:12 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
